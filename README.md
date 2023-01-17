@@ -76,18 +76,8 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 <img src="https://i.imgur.com/v6zzN3N.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/4IieS80.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
-<h3>Step 5: Allow anyone to create tickets</h3>
 
- Make sure you are in admin panel (check top right to see which panel you are in)
-- Select the Settings -> User Settings
-	- Make sure box is unchecked: 
-		- Registration Required: Require registration and login to create tickets 
-		
-<p align="center">
-<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
-
-
-<h3>Step 6: Configure Agents</h3>
+<h3>Step 5: Configure Agents</h3>
 
 -  Make sure you are in admin panel (check top right to see which panel you are in)
 - Select the Agents tab -> Add New Agents
@@ -104,14 +94,14 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 </p>
 
 - Select Access tab 
-	- Under Primary Department 
-		- Select department dropdown menu -> System Administrators
-		- Select Role dropdown menu -> Supreme Admin
-	- Extended Accesss 
-		- Select Department -> Support -> Add -> Supreme Admin
+- Under Primary Department 
+- Select department dropdown menu -> System Administrators
+- Select Role dropdown menu -> Supreme Admin
+- Extended Accesss 
+- Select Department -> Support -> Add -> Supreme Admin
 - Select Teams tab
-	- Select team dropdown menu -> Level II Support
-	- Select Add
+- Select team dropdown menu -> Level II Support
+- Select Add
 - Select Create	
 
 	
@@ -122,7 +112,7 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 
      
 
-<h3>Step 7: Configure Users
+<h3>Step 6: Configure Users
 </h3>
 
 - Make sure you are in Agent panel
@@ -147,7 +137,7 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 <p align="center">
 <img src="https://i.imgur.com/EXyy5Gq.png" height="80%" width="80%" alt="Azure Free Account"/>		
 
-<h3>Step 8:  Configure Service Level Agreements (SLA)
+<h3>Step 7:  Configure Service Level Agreements (SLA)
 </h3>
 
 - Make sure you are in admin panel
@@ -179,7 +169,7 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 
 
 
-<h3>Step 9:   Configure Help Topics
+<h3>Step 8:   Configure Help Topics
 </h3>
 
 -  Make sure you are in admin panel
