@@ -52,9 +52,9 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 
 <h3>Step 3: Configure Departments</h3>
 
-- Make sure you are in admin panel (check top right to see which panel you are in)
+- Make sure you are in admin panel 
 - Select the Agents tab -> Departments -> Add New Department 
-	- Name: System Administrators
+- Name: System Administrators
 - Select Create Dept. 
 
 
@@ -66,9 +66,9 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 <h3>Step 4:  Configure Teams
 </h3>
 
-- Make sure you are in admin panel (check top right to see which panel you are in)
+- Make sure you are in admin panel
 - Select the Agents tab -> Teams -> Add New Team
-	- Name: Level II Support 
+- Name: Level II Support 
 - Go to members tab and select yourself in "Select Agent" dropdown menu
 - Select create team. 
 	
