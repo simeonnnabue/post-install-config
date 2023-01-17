@@ -119,40 +119,30 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 <img src="https://i.imgur.com/HPSPHNU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/hotx1wo.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
-- Create another agent and replace Jane with John.
-	- Follow same steps as above except make some changes to Primary Department
-		- Select department dropdown menu -> Support
-		- Select Role dropdown menu -> View only
-	- Extended Accesss 
-		- Select Department -> Support -> Save Changes
-		
-<p align="center">
-<img src="https://i.imgur.com/qQ8ckBr.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/KVPsUb4.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
- 
+
      
 
 <h3>Step 7: Configure Users
 </h3>
 
-- Make sure you are in Agent panel (check top right to see which panel you are in)
-	- If the top right says "admin" you are in the agent panel
+- Make sure you are in Agent panel
+- If the top right says "admin" you are in the agent panel
 	
 <p align="center">
 <img src="https://i.imgur.com/UUqCK1d.png" height="80%" width="80%" alt="Azure Free Account"/>		
 	
 - Select Users tab to create user
-	- Email Address: Karen@osticket.com
-	- Full Name - Karen Karen
-	- Select Add User
+- Email Address: Karen@osticket.com
+- Full Name - Karen Karen
+- Select Add User
 	
 <p align="center">
 <img src="https://i.imgur.com/wpTn12W.png" height="80%" width="80%" alt="Azure Free Account"/>			
 	
  - Select user tab again to create another user
-	- Email Address: Ken@osticket.com
-	- Full Name - Ken Ken
-	- Select Add User
+- Email Address: Ken@osticket.com
+- Full Name - Ken Ken
+- Select Add User
 
 <p align="center">
 <img src="https://i.imgur.com/EXyy5Gq.png" height="80%" width="80%" alt="Azure Free Account"/>		
@@ -160,12 +150,12 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 <h3>Step 8:  Configure Service Level Agreements (SLA)
 </h3>
 
-- Make sure you are in admin panel (check top right to see which panel you are in)
+- Make sure you are in admin panel
 - Select Manage tab -> SLA -> Add New SLA Plan (We are creating 3)
-	- Name: SEV-A 			
-	- Grace Period: 1
-	- Schedule dropdown menu: 24/7
-	- Select Add Plan
+- Name: SEV-A 			
+- Grace Period: 1
+- Schedule dropdown menu: 24/7
+- Select Add Plan
 	
 <p align="center">
 <img src="https://i.imgur.com/fMR4yMR.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3tQnihq.png" height="80%" width="80%" alt="Azure Free Services"/>
@@ -192,12 +182,12 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 <h3>Step 9:   Configure Help Topics
 </h3>
 
--  Make sure you are in admin panel (check top right to see which panel you are in)
+-  Make sure you are in admin panel
 - Select Manage tab -> Help Topics -> Add New Help Topic (We will be adding 4)
-	- Business Critical Outage
-	- Personal Computer Issues
-	- Equipment Request
-	- Password Reset
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
 - Select Add Topic for each topic
 
 <p align="center">
@@ -205,4 +195,4 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 
 
 
-🎉Congratulations! You have set up osTicket succesfully!🎉 Click [here](https://github.com/miquelmanaois/Ticketlifesyle) to move on to the final part of this tutorial! 
+🎉Congratulations! You have set up osTicket succesfully!🎉
