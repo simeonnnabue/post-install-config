@@ -39,10 +39,10 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 <h3>Step 2: Configure Roles </h3>
 
 - Make sure you are in admin panel (check top right to see which panel you are in)
-	- If the top right says "agent" you are in the admin panel
+- If the top right says "agent" you are in the admin panel
 - Select the Agents tab -> Roles -> Add New Role
-	- Name : Supreme Admin
-	- Select Permissions tab and check every box under the "Tickets", "Tasks" and "Knowledgebase" section
+- Name : Supreme Admin
+- Select Permissions tab and check every box under the "Tickets", "Tasks" and "Knowledgebase" section
 - Select Add Role
 	
 <p align="center">
@@ -81,13 +81,13 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 
 -  Make sure you are in admin panel (check top right to see which panel you are in)
 - Select the Agents tab -> Add New Agents
-	- Name: Jane Doe
-	- Email : jane.doe@osticket.com
-	- Username: jane.doe
-	- Click set password and uncheck box that says "send the agent a password reset email
-		- Set your password to anything you like
-		- uncheck box that says "require password change at next login
-		- Select set
+- Name: Jane Doe
+- Email : jane.doe@osticket.com
+- Username: jane.doe
+- Click set password and uncheck box that says "send the agent a password reset email
+- Set your password to anything you like
+- uncheck box that says "require password change at next login
+- Select set
 		
 <p align="center">
 <img src="https://i.imgur.com/fTvI0Ru.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/6OU5KqX.png" height="70%" width="70%" alt="Azure Free Services"/>
@@ -129,7 +129,7 @@ This tutorial briefly outlines the post-install configuration for osTicket.<br /
 <p align="center">
 <img src="https://i.imgur.com/wpTn12W.png" height="80%" width="80%" alt="Azure Free Account"/>			
 	
- - Select user tab again to create another user
+- Select user tab again to create another user
 - Email Address: Ken@osticket.com
 - Full Name - Ken Ken
 - Select Add User
